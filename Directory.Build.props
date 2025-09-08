@@ -1,0 +1,15 @@
+<Project>
+  <PropertyGroup>
+    <Product>Tapper</Product>
+    <Title>Tapper</Title>
+    <Description>A .NET application for keyboard input simulation</Description>
+    <Company>KitRifty</Company>
+    <Authors>KitRifty</Authors>
+    <Copyright>Copyright © 2025 KitRifty</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/KitRifty/Tapper</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/KitRifty/Tapper</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>input simulation keyboard macos</PackageTags>
+  </PropertyGroup>
+</Project>
