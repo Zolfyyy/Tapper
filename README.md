@@ -6,6 +6,14 @@
 
 Tapper is a lightweight, macOS utility designed to programmatically control slide presentations from various presentation software including PowerPoint, Keynote, and Canva. It provides a command-line interface to navigate through slides efficiently, making it perfect for integration with automation tools and custom keyboard shortcuts.
 
+## Requirements
+
+- .NET 9.0 or later
+
+## Installation
+
+Go to the [releases](https://github.com/KitRifty/Tapper/releases) page and download the appropriate version for your platform.
+
 ## Commands
 
 | Command | Description                                                   | Usage                                     |
@@ -86,14 +94,6 @@ To use this configuration:
 3. Add the above rule using the import feature
 
 Now you can use Page Up/Down keys to control your presentations using Tapper.
-
-## Requirements
-
-- .NET 9.0 or later
-
-## Installation
-
-Go to the [releases](https://github.com/KitRifty/Tapper/releases) page and download the appropriate version for your platform.
 
 ## License
 
