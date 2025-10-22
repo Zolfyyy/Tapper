@@ -23,7 +23,7 @@ jobs:
 
       - name: Create Changelog
         id: changelog
-        uses: TriPSs/conventional-changelog-action@v6.1.0
+        uses: TriPSs/conventional-changelog-action@v6.2.0
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-file: false
